@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;debugging.DebuggingProblem_yeamin.java&apos; to &apos;DebuggingProblem_Yeamin.java&apos;&#x0A;- Original project: &apos;DebuggingProblem_Yeamin&apos;&#x0A;- Original element: &apos;debugging.DebuggingProblem_yeamin.java&apos;&#x0A;- Renamed element: &apos;debugging.DebuggingProblem_Yeamin.java&apos;" description="Rename compilation unit &apos;DebuggingProblem_yeamin.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;debugging{DebuggingProblem_yeamin.java" name="DebuggingProblem_Yeamin.java" references="false" stamp="1738045001839" version="1.0"/>
+</session>
