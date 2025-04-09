@@ -1,6 +1,4 @@
 package asg6;
-
-//Asg 6 – COSC 2425-01 – Professor McCurry
 //Implemented by - Ashabul Yeamin
 
 public abstract class Spaceship {
